@@ -1,34 +1,39 @@
-{
-  "posts": [
-      {
-    "id": "1",
-    "employee_name": "Square",
-    "employee_salary": "0",
-    "employee_age": "65"
-  },
-  {
-    "id": "2",
-    "employee_name": "Apollo",
-    "employee_salary": "100000",
-    "employee_age": "30"
-  },
-  {
-    "id": "3",
-    "employee_name": "IBN Sina",
-    "employee_salary": "100000",
-    "employee_age": "30"
-  },
-  {
-    "id": "4",
-    "employee_name": "United",
-    "employee_salary": "100000",
-    "employee_age": "30"
-  },
-  {
-    "id": "5",
-    "employee_name": "Labaid",
-    "employee_salary": "17",
-    "employee_age": "45"
-  }
-  ]
+{ 
+   "posts":[ 
+      { 
+         "id":"1",
+         "name":"Square",
+         "cost":"5000",
+         "distance":"10",
+         "quality":"Very_Poor"
+      },
+      { 
+         "id":"2",
+         "name":"United",
+         "cost":"4000",
+         "distance":"16",
+         "quality":"Poor"
+      },
+      { 
+         "id":"3",
+         "name":"Kurmitola",
+         "cost":"1000",
+         "distance":"12",
+         "quality":"Average"
+      },
+      { 
+         "id":"4",
+         "name":"Apollo",
+         "cost":"9000",
+         "distance":"3",
+         "quality":"Excellent"
+      },
+      { 
+         "id":"5",
+         "name":"Labaid",
+         "cost":"2200",
+         "distance":"30",
+         "quality":"Very_Good"
+      }
+   ]
 }
