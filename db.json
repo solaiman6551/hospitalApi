@@ -28,23 +28,5 @@
     "employee_name": "Labaid",
     "employee_salary": "17",
     "employee_age": "45"
-  },
-  {
-    "id": "6",
-    "employee_name": "Dhaka General",
-    "employee_salary": "18",
-    "employee_age": "45"
-  },
-  {
-    "id": "7",
-    "employee_name": "Kurmitola",
-    "employee_salary": "19",
-    "employee_age": "45"
-  },
-  {
-    "id": "8",
-    "employee_name": "Bangladesh Medical",
-    "employee_salary": "123",
-    "employee_age": "23"
   }
 ]
