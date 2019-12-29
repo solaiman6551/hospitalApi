@@ -1,5 +1,6 @@
-[
-  {
+{
+  "posts": [
+      {
     "id": "1",
     "employee_name": "Square",
     "employee_salary": "0",
@@ -29,4 +30,5 @@
     "employee_salary": "17",
     "employee_age": "45"
   }
-]
+  ]
+}
