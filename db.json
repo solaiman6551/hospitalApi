@@ -3,44 +3,44 @@
       { 
          "id":"1",
          "name":"Square",
-         "cost":"5000",
-         "distance":"10",
-         "quality":"Very_Poor"
+         "cost":"5",
+         "distance":"8",
+         "quality":"7"
       },
       { 
          "id":"2",
          "name":"United",
-         "cost":"4000",
-         "distance":"16",
-         "quality":"Poor"
+         "cost":"4",
+         "distance":"4",
+         "quality":"4"
       },
       { 
          "id":"3",
          "name":"Kurmitola",
-         "cost":"1000",
-         "distance":"12",
-         "quality":"Average"
+         "cost":"2",
+         "distance":"6",
+         "quality":"5"
       },
       { 
          "id":"4",
          "name":"Apollo",
-         "cost":"9000",
+         "cost":"9",
          "distance":"3",
-         "quality":"Excellent"
+         "quality":"9"
       },
       { 
          "id":"5",
          "name":"Labaid",
-         "cost":"2200",
-         "distance":"30",
-         "quality":"Very_Good"
+         "cost":"2",
+         "distance":"3",
+         "quality":"6"
       },
       { 
          "id":"6",
          "name":"GreenLife",
-         "cost":"2000",
-         "distance":"08",
-         "quality":"Average"
+         "cost":"2",
+         "distance":"8",
+         "quality":"5"
       }
    ]
 }
