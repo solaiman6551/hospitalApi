@@ -1,34 +1,34 @@
-{
-"posts":[
-{
-    "score": "80/5",
-    "target": "Lead by 250",
-    "overs": "32.5",
-    "runRate": "4.56",
-    "string": "Richmond College won the toss and elected to bat first",
-    "batsmanOne": {
-        "name": "Charith Asalanka",
-        "runs": "46(73)"
-    },
-    "batsmanTwo": {
-        "name": "Wanindu Hasaranga",
-        "runs": "46(73)"
-    },
-    "bowlerOne": {
-        "name": "Charith Asalanka",
-        "figures": "1/46(12.3)"
-    },
-    "bowlerTwo": {
-        "name": "Dhananjaya de Silva",
-        "figures": "1/46(12.3)"
-    },
-    "extras": {
-        "totalExtras": 16,
-        "noBalls": 4,
-        "wides": 9,
-        "legByes": 3
-    },
-    "lastWicket": "Supun Lakshan 41(74) at Total 123(32.3)"
-}
-   ]
+{ 
+   "posts":
+      { 
+         "score":"80/5",
+         "target":"Lead by 250",
+         "overs":"32.5",
+         "runRate":"4.56",
+         "string":"Richmond College won the toss and elected to bat first",
+         "batsmanOne":{ 
+            "name":"Charith Asalanka",
+            "runs":"46(73)"
+         },
+         "batsmanTwo":{ 
+            "name":"Wanindu Hasaranga",
+            "runs":"46(73)"
+         },
+         "bowlerOne":{ 
+            "name":"Charith Asalanka",
+            "figures":"1/46(12.3)"
+         },
+         "bowlerTwo":{ 
+            "name":"Dhananjaya de Silva",
+            "figures":"1/46(12.3)"
+         },
+         "extras":{ 
+            "totalExtras":16,
+            "noBalls":4,
+            "wides":9,
+            "legByes":3
+         },
+         "lastWicket":"Supun Lakshan 41(74) at Total 123(32.3)"
+      }
+   
 }
