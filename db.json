@@ -1,9 +1,9 @@
 {
     "status": "Success",
     "message": null,
-    "data": {
+    "posts": {
         "current_page": 1,
-        "data": [
+        "posts": [
             {
                 "id": 1,
                 "guardian_id": 45,
