@@ -1,46 +1,44 @@
-{ 
-   "posts":[ 
-      { 
-         "id":"1",
-         "name":"Square",
-         "cost":"5",
-         "distance":"8",
-         "quality":"7"
-      },
-      { 
-         "id":"2",
-         "name":"United",
-         "cost":"4",
-         "distance":"4",
-         "quality":"4"
-      },
-      { 
-         "id":"3",
-         "name":"Kurmitola",
-         "cost":"2",
-         "distance":"6",
-         "quality":"5"
-      },
-      { 
-         "id":"4",
-         "name":"Apollo",
-         "cost":"9",
-         "distance":"3",
-         "quality":"9"
-      },
-      { 
-         "id":"5",
-         "name":"Labaid",
-         "cost":"2",
-         "distance":"3",
-         "quality":"6"
-      },
-      { 
-         "id":"6",
-         "name":"GreenLife",
-         "cost":"2",
-         "distance":"8",
-         "quality":"5"
-      }
-   ]
+{
+    "status": "Success",
+    "message": null,
+    "data": {
+        "current_page": 1,
+        "data": [
+            {
+                "id": 1,
+                "guardian_id": 45,
+                "pic_dir": null,
+                "name": "Sabbir Rahman",
+                "dob": "2000-07-10",
+                "gender": "female",
+                "blood_group": "B+",
+                "preferred_class": null,
+                "birth_certificate_no": null,
+                "birth_certificate_dir": "4135552bc5b8d1cbed61a8b750711f64.jpg",
+                "testimonial_dir": null,
+                "certificate_dir": "7e016609c6f4848e71d3e377b26e7055.jpeg",
+                "deleted_at": null,
+                "created_at": "2020-01-23 04:55:08",
+                "updated_at": "2020-01-23 04:55:08"
+            },
+            {
+                "id": 2,
+                "guardian_id": 45,
+                "pic_dir": null,
+                "name": "Sabbir Rahman",
+                "dob": "2000-07-10",
+                "gender": "female",
+                "blood_group": "B+",
+                "preferred_class": null,
+                "birth_certificate_no": null,
+                "birth_certificate_dir": "f6310c6a5288618d588237c1da847563.jpg",
+                "testimonial_dir": null,
+                "certificate_dir": "93527bcf94f29d22047c053e05556391.jpeg",
+                "deleted_at": null,
+                "created_at": "2020-01-23 05:03:47",
+                "updated_at": "2020-01-23 05:03:47"
+            }
+        ],
+    },
+    "errors": []
 }
