@@ -1,8 +1,4 @@
-{
-    "status": "Success",
-    "message": null,
-    "posts": {
-        "current_page": 1,
+
         "posts": [
             {
                 "id": 1,
@@ -39,5 +35,3 @@
                 "updated_at": "2020-01-23 05:03:47"
             }
         ]
-    }
-}
