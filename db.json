@@ -36,6 +36,13 @@
                "cost":"7.9",
                "distance":"5.9",
                "quality":"3.9"
+            },
+            { 
+               "id":"6",
+               "name":"Samorita Hospital Limited",
+               "cost":"3.5",
+               "distance":"4.9",
+               "quality":"4.0"
             }
          ]
       }
