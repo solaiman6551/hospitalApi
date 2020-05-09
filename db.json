@@ -33,16 +33,16 @@
             { 
                "id":"5",
                "name":"Labaid Hospital Limited",
-               "cost":"2",
-               "distance":"3",
-               "quality":"6"
+               "cost":"7.9",
+               "distance":"5.9",
+               "quality":"7.8"
             },
             { 
                "id":"6",
-               "name":"GreenLife Hospital Limited",
-               "cost":"2",
-               "distance":"8",
-               "quality":"5"
+               "name":"Samorita Hospital Bangladesh",
+               "cost":"3.5",
+               "distance":"4.9",
+               "quality":"4.0"
             }
          ]
       }
