@@ -4,45 +4,45 @@
          "list":[ 
             { 
                "id":"1",
-               "name":"Ibn Sina Specialized Hospital",
-               "cost":"4.6",
-               "distance":"4.6",
-               "quality":"4.3"
+               "name":"Square Hospital Limited",
+               "cost":"5",
+               "distance":"8",
+               "quality":"7"
             },
             { 
                "id":"2",
                "name":"United Hospital Limited",
                "cost":"4",
-               "distance":"4.7",
-               "quality":"4.2"
+               "distance":"4",
+               "quality":"4"
             },
             { 
                "id":"3",
-               "name":"United Hospital Limited",
-               "cost":"9",
-               "distance":"5.3",
-               "quality":"4.0"
+               "name":"Kurmitola General Hospital",
+               "cost":"2",
+               "distance":"6",
+               "quality":"5"
             },
             { 
                "id":"4",
-               "name":"Bangladesh Specialized Hospital Limited",
-               "cost":"7.5",
-               "distance":"1.8",
-               "quality":"3.9"
+               "name":"Apollo Hospital Limited",
+               "cost":"9",
+               "distance":"3",
+               "quality":"9"
             },
             { 
                "id":"5",
-               "name":"Labaid Specialized Hospital Limited",
-               "cost":"7.9",
-               "distance":"5.9",
-               "quality":"3.9"
+               "name":"Labaid Hospital Limited",
+               "cost":"2",
+               "distance":"3",
+               "quality":"6"
             },
             { 
                "id":"6",
-               "name":"Samorita Hospital Limited",
-               "cost":"3.5",
-               "distance":"4.9",
-               "quality":"4.0"
+               "name":"GreenLife Hospital Limited",
+               "cost":"2",
+               "distance":"8",
+               "quality":"5"
             }
          ]
       }
