@@ -11,17 +11,17 @@
             },
             { 
                "id":"2",
-               "name":"United Hospital Limited",
-               "cost":"4",
-               "distance":"4",
-               "quality":"4"
+               "name":"Square Hospital Limited",
+               "cost":"5.0",
+               "distance":"4.7",
+               "quality":"8.4"
             },
             { 
                "id":"3",
-               "name":"Kurmitola General Hospital",
-               "cost":"2",
-               "distance":"6",
-               "quality":"5"
+               "name":"United Hospital Limited",
+               "cost":"9.0",
+               "distance":"5.3",
+               "quality":"8.0"
             },
             { 
                "id":"4",
