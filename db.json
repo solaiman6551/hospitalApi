@@ -4,10 +4,10 @@
          "list":[ 
             { 
                "id":"1",
-               "name":"Square Hospital Limited",
-               "cost":"5",
-               "distance":"8",
-               "quality":"7"
+               "name":"Ibn Sina Specialized Hospital",
+               "cost":"4.6",
+               "distance":"4.6",
+               "quality":"8.6"
             },
             { 
                "id":"2",
